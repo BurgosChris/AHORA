@@ -11,7 +11,7 @@ package defaho;
  */
 public class HOLA_MUNDO {
     public static void main(String[] args) {
-          system.out.println("hola mundo"); 
+          System.out.println("HOLA MUNDO");
     }
     
  
